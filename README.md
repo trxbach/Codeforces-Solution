@@ -1,2 +1,2 @@
-# Codeforces Solution
-All codeforces answer
+# Solution of Online judges
+Solution solved in Codeforces (http://codeforces.com/), CS Academy (https://csacademy.com/), UVa (https://uva.onlinejudge.org/), ...
